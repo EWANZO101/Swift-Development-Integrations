@@ -4,11 +4,10 @@ In the realm of Swift development, integrating with platforms like FiveM and Sna
 
 ## FiveM Integrations:
 
-- **Custom Scripts:** Develop custom scripts in Swift to add new features or functionalities to FiveM servers, such as interactive NPCs, advanced vehicle systems, or dynamic weather effects.
-
+- **Custom Scripts:** Develop custom scripts in Swift to add new features or functionalities to FiveM servers, 
 - **REST API Integration:** Utilize Swift to integrate FiveM servers with external services or databases via RESTful APIs, enabling functionalities like user authentication, data synchronization, or real-time analytics.
 
-- **UI/UX Enhancements:** Design and implement intuitive user interfaces for FiveM server management tools or in-game menus using Swift's UIKit framework, ensuring a seamless and immersive gaming experience.
+
 
 ## Snaily CAD Integrations:
 
